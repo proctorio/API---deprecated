@@ -6,8 +6,8 @@ Proctorio API for internal server access, restricted framework. Do not share pub
 While most methods return a `Resource` object or a Boolean, sometimes you may
 need access to the raw HTTP response headers. 
 
-```ruby
-https://api.proctorio.com/v3
-```
+Version 3 Endpoint: [api.proctorio.com](https://api.proctorio.com)
 
-Version 3 Endpoint: [https://api.proctorio.com/v3](https://api.proctorio.com/v3)
+```
+https://api.proctorio.com/3/internal
+```
